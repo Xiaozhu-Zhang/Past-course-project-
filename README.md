@@ -2,7 +2,7 @@
 My name is Xiaozhu Zhang. 
 
 ## Major courses I have taken
-*  STA 104 Non-Parametric Statistics(progressing)
+*  STA 104 Non-Parametric Statistics
 *  STA 108 Regression analysis
 *  STA 106 Analysis of Variance
 *  STA 137 Applied Time Series Analysis
